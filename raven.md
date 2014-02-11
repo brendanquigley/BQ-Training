@@ -12,4 +12,8 @@ Ah distinctly I rememeber blasting so hard
 Laughing so I think my mind is gone
 
 
-Tell me why o why are we blind to see//This is a terrible poem
+Tell me why o why are we blind to see
+The ones we hurt are you and me
+
+
+//This is a terrible poem
