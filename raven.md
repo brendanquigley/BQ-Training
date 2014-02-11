@@ -10,4 +10,6 @@ tis some homie, I muttered, before breaking out my guns
 
 Ah distinctly I rememeber blasting so hard
 Laughing so I think my mind is gone
-//This is a terrible poem
+
+
+Tell me why o why are we blind to see//This is a terrible poem
