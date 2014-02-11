@@ -6,12 +6,6 @@ violets are blue
 
 itest
 
-
-test
-set
-est
-
-
 change is hard!
 it isn't 
 man up
