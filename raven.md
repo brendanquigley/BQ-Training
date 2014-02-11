@@ -1,5 +1,12 @@
 Edgar Allen Poe
 
+<<<<<<< HEAD
+=======
+
+drop this change!
+
+rapping style!
+>>>>>>> morepoetry
 Once upon a midnight dreary, while I pondered weak and weary.
 Over many a quaint an curious volume of forgotten lore
 While I nodded nearly napping suddenly came a tapping
