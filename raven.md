@@ -1,7 +1,9 @@
 Edgar Allen Poe
 
 
-Rapping style!
+drop this change!
+
+rapping style!
 Once upon a midnight dreary, while I pondered weak and weary.
 Over many a quaint an curious volume of forgotten lore
 While I nodded nearly napping suddenly came a tapping
